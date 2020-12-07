@@ -5,8 +5,8 @@ This repo can be used to download any sheet music from MuseScore
 ## Steps:
 
 1. Install Python 3.x
-2. Install required libraries
-3. run main.py
+2. Activate the conda environemnt or run 'pip install requirements.txt'
+3. Run main.py
 4. Enter the url for the piece you want to download
 5. In the auto-opened browser, scroll through all the pages so they render
 6. Click enter in the terminal after all pages have rendered on the site
