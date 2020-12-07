@@ -1,0 +1,53 @@
+name: MuseScore-Downloader
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2020.10.14=0
+  - cairo=1.14.12=hc4e6be7_4
+  - certifi=2020.11.8=py39hecd8cb5_0
+  - fontconfig=2.13.0=h5d5b041_1
+  - freetype=2.10.4=ha233b18_0
+  - gettext=0.19.8.1=hb0f4f8b_2
+  - glib=2.66.1=h9bbe63b_0
+  - icu=58.2=h0a44026_3
+  - libcxx=10.0.0=1
+  - libedit=3.1.20191231=h1de35cc_1
+  - libffi=3.3=hb1e8313_2
+  - libiconv=1.16=h1de35cc_0
+  - libpng=1.6.37=ha441bb4_0
+  - libxml2=2.9.10=h7cdb67c_3
+  - ncurses=6.2=h0a44026_1
+  - openssl=1.1.1h=haf1e3a3_0
+  - pcre=8.44=hb1e8313_0
+  - pip=20.3=py39hecd8cb5_0
+  - pixman=0.40.0=haf1e3a3_0
+  - python=3.9.0=h88f2d9e_2
+  - readline=8.0=h1de35cc_0
+  - setuptools=50.3.2=py39hecd8cb5_2
+  - sqlite=3.33.0=hffcf06c_0
+  - tk=8.6.10=hb0a8c7a_0
+  - tzdata=2020d=h14c3975_0
+  - wheel=0.36.0=pyhd3eb1b0_0
+  - xz=5.2.5=h1de35cc_0
+  - zlib=1.2.11=h1de35cc_3
+  - pip:
+    - cairocffi==1.2.0
+    - cairosvg==2.5.0
+    - cffi==1.14.4
+    - chardet==3.0.4
+    - colorama==0.4.4
+    - configparser==5.0.1
+    - crayons==0.4.0
+    - cssselect2==0.4.1
+    - defusedxml==0.6.0
+    - idna==2.10
+    - pillow==8.0.1
+    - pycparser==2.20
+    - pypdf2==1.26.0
+    - requests==2.25.0
+    - selenium==3.141.0
+    - tinycss2==1.1.0
+    - urllib3==1.26.2
+    - webdriver-manager==3.2.2
+    - webencodings==0.5.1
+prefix: /Users/mayankjain/opt/anaconda3/envs/MuseScore-Downloader
